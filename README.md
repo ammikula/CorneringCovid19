@@ -22,8 +22,8 @@ than reality because the case number grew at such a fast pace that with some mis
 and some files unable to be read it became moderately inaccurate. But, this is notified to the user.
 
 >>>> Future Work Ideas:
-1. I would ideally like to make this for all countries
-2. A "Go Back" button on newScene to go back to start
+>>>> 1. I would ideally like to make this for all countries
+>>>> 2. A "Go Back" button on newScene to go back to start
 
 >>> Pictures included: 
 >>> 1. sceneOne_invalidInput.png : shows user interface with invalid input
