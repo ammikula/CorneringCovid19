@@ -6,6 +6,10 @@ Semester: Summer 2019
 Project Name: Cornering COVID - Final Project
 Student Name: Anna Mikula 
 
+# Pictures included: 
+ 1. sceneOne_invalidInput.png : shows user interface with invalid input
+ 2. sceneTwo_allData.png : show user interface with all valid input
+
 email: ammikula@wisc.edu
 
 >>>> Other notes or comments to the grader:
@@ -24,7 +28,3 @@ and some files unable to be read it became moderately inaccurate. But, this is n
 >>>> Future Work Ideas:
 >>>> 1. I would ideally like to make this for all countries
 >>>> 2. A "Go Back" button on newScene to go back to start
-
->>> Pictures included: 
->>> 1. sceneOne_invalidInput.png : shows user interface with invalid input
->>> 2. sceneTwo_allData.png : show user interface with all valid input
